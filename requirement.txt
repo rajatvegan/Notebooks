@@ -1,7 +1,9 @@
 requests
+numpy
 pandas
 matplotlib
 seaborn
+plotly
 scipy
 statsmodels
-numpys
+bs4
